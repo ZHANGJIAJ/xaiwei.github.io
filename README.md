@@ -14,6 +14,19 @@ QQ:1192726197
 ## blog要干嘛
 完成作业（划掉）记录生活
 
+## 正经内容（互联网分析与治理）
+### 资料汇总
+网上主要教学资源
+● 精选必看MOOC：当政府遇上互联网
+http://mooc1.chaoxing.com/course/201946228.html
+● 精选必看MOOC：R语言基础https://mooc1.chaoxing.com/course/97619275.html?_from_=208815890_17811461_117047994_ad050eece3f6dddeb97c04d1c57108ef
+● 学习通自建课程门户：  https://mooc1.chaoxing.com/course/208815890.html
+● 课程文档之家：https://docs.qq.com/sheet/DYUVHamZnU2FzSU5t?c=C4A0A0
+### 学习目标
+互联网精神（ing）
+R语言（ing）
+Git（ing）
+
 ## 分享内容{不定时更(⁎⁍̴̛ᴗ⁍̴̛⁎)}
 ### 04/17/2020
 #### 诗词分享
